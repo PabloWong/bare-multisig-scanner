@@ -1,4 +1,4 @@
-#|/usr/bin/python3
+#!/usr/bin/python3
 
 from bitcoinrpc.authproxy import AuthServiceProxy
 
